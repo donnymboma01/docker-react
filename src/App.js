@@ -6,17 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Welcome everyone to the wonderful world of Docker and Kubernetes !</h1>
+        <p>Ici je vais écrire en francais juste pour observer les changements qui se font du coté de l'application</p>
+        <p>J'ai comme l'impression qu'il y a un petit moment avant que le changement soient pris en compte en React.</p>
       </header>
     </div>
   );
